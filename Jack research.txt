@@ -1,0 +1,42 @@
+euler lagrange equations for modelling equations
+i wanna do that bit, basing process off of Daniel's dynamics class
+
+how to convert from existing and desired euler lagrange stuff into what movements need to happen
+^probs gonna piss about with this
+^think there's also a matlab thing that handles this itself but that's boring as shit
+
+can make modelling simpler with a rigidbody tree but I don't wanna 
+
+processor we want to use(raspberry pi pico 2 is looking likely)
+150 MHz processor
+520 kb ram
+4 Mb flash
+26 gpio (3 adc)
+
+pi pico 2 w has Bluetooth connectivity
+
+^details found from raspberry pi pihut website(one of the official retailers)
+^https://thepihut.com/products/raspberry-pi-pico-2?src=raspberrypi
+^https://thepihut.com/products/raspberry-pi-pico-2-w?src=raspberrypi
+
+price: £4.80(pi hut) £3.75(mouser)
+^https://thepihut.com/products/raspberry-pi-pico-2?src=raspberrypi
+^https://www.mouser.co.uk/en/ProductDetail/Raspberry-Pi/SC1631?qs=IKkN%2F947nfBrS4NBdUxzKQ%3D%3D&src=raspberrypi
+
+price(Bluetooth): £6.70(pi hut) £5.26(mouser)
+^https://thepihut.com/products/raspberry-pi-pico-2-w?src=raspberrypi
+^https://www.mouser.co.uk/en/ProductDetail/Raspberry-Pi/SC1633?qs=3vio67wFuYrX4U8ue%2Fh1eA%3D%3D&src=raspberrypi
+
+
+brief look at computer vision
+
+
+wii remote to position in space api
+https://franklinta.com/2014/09/30/6dof-positional-tracking-with-the-wiimote/
+^api for finding this shit
+^uses C but could convert data to send to python code
+^gonna look for a python api
+
+https://github.com/tswast/pywiiuse
+^python one from the looks of it
+^neat
