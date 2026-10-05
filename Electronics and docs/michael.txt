@@ -1,0 +1,4 @@
+this is a project
+https://www.instructables.com/EEZYbotARM-Mk2-3D-Printed-Robot
+math modelling maybe
+https://www.mathworks.com/help/robotics/ug/model-and-control-a-manipulator-arm-with-simscape.html
