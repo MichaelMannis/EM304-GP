@@ -1,0 +1,8 @@
+﻿"R1"= 20mm
+"D1@Sketch2"="R1"/2
+"D1@Sketch3"="R1"
+"D3@Sketch3"="R1"/2
+"D1@Cut-Extrude1"="R1"
+"D2@Cut-Extrude1"="R1"
+"R2"= 18mm
+"D1@Sketch5"="R1"
