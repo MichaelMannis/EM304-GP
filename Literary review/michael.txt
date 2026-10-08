@@ -7,3 +7,4 @@ https://www.mathworks.com/help/robotics/ug/model-and-control-a-manipulator-arm-w
 Michael thinks we should use a Pi pico w
 wireless control sounds fun could do so from a laptop
 https://www.raspberrypi.com/news/how-to-run-a-webserver-on-raspberry-pi-pico-w/
+alternatively we can use a 433mhz module off amazon
