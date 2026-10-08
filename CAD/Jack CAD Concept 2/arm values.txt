@@ -1,0 +1,10 @@
+﻿"segment width" = 60
+"segment support width"= 20
+"servo hole"= 10'arbitrary atm
+"segment length 1"= 200
+"segment length 2"= 200
+"segment length 3"= 200
+"segment length 4"= 100
+"segment length 5"= 100
+"base diameter"= 100
+"base height"= 50
