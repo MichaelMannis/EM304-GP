@@ -29,6 +29,10 @@ price(Bluetooth): £6.70(pi hut) £5.26(mouser)
 
 
 brief look at computer vision
+lidar is most optimal but not really allowed :(
+leaves us with reasonable options being stereo cameras or shifting about a monocular camera
+if we track where the monocular camera is, we can create a 3d model from disparities
+rather than get a fancy stereo camera I say we whack two monocular ones on it
 
 
 wii remote to position in space api
