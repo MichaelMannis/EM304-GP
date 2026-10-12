@@ -1,0 +1,12 @@
+Main Goals:
+Manual control
+3 translational axis of movement
+1 rotational axis
+Connector to model
+Connection indicator/verifier
+Power on safety feature/indicator
+
+Stretch goals:
+Machine vision
+Alternate manual control(wiimote)
+Autonomy(robo rave)
