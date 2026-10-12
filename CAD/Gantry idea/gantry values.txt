@@ -1,0 +1,5 @@
+﻿"height"= 200
+"depth"= 600
+"width"= 600
+"section width"= 40
+"hand length"= 50
