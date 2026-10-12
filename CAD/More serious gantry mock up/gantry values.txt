@@ -1,8 +1,8 @@
-﻿"rail width"= 50
-"system width"= 600
-"system depth"= 600
-"internal height"= 200
-"carriage height"= 50
-"gear radius"= 5
-"tooth width"= 2
-"track width"= 10
+﻿"rail width"= 50
+"system width"= 125
+"system depth"= 250
+"internal height"= 100
+"carriage height"= 50
+"gear radius"= 5
+"tooth width"= 1
+"track width"= 10
