@@ -1,0 +1,14 @@
+camera gets image of system
+image passed to raspberry pi
+cv algorithm processes into 3d position to move to
+required position passed to mathematical model for movement
+required movements found from mathematical model
+model provides required actions for motors
+required actions converted to instructions for motors
+instructions for motors converted to electrical pwm signals
+raspberry pi translates required signals into gpio outputs
+signals passed from gpio's to stepper motors over wires
+motors move in accordance with system
+return to start for second image until connection is made
+
+^control & movement breakdown
