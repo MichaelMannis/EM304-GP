@@ -12,3 +12,4 @@ motors move in accordance with system
 return to start for second image until connection is made
 
 ^control & movement breakdown
+^interface view is most applicable
