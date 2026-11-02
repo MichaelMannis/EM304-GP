@@ -1,0 +1,15 @@
+Demo description
+
+
+Car is placed in demonstration area
+
+-- Demo start
+system is turned on
+Camera sees car
+Carriage moves
+Carriage plugs in
+timer for X seconds
+Carriage moves backwards
+carriage returns to zero point
+turn off system
+-- Demo end

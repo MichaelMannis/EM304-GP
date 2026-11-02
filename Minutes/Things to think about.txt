@@ -1,0 +1,11 @@
+Things to think about
+
+How to stop when plugged in
+1. current?
+2. Led?
+3. size of sticker?
+
+Errors and exceptions
+1. Rotation
+2. out of bounds
+3. Cant see initially
