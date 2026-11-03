@@ -1,0 +1,7 @@
+Things to decide during meeting
+
+Do we want rotation? - NO
+Total motor number? 5
+Can we fit economically - Logan concerned
+Motor Strength is 225
+Motor cost is 
