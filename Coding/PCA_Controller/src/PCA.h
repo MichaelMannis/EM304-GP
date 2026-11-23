@@ -16,9 +16,10 @@ class PCA {
   static int angle;
   static bool serialRecieved;
   PCA(int _pin);
-  void move(int serialData, int lag);
+  void moveServo(int serialData, int lag);
   static void readSerial();
   static void timeSerial(int ms, bool trueFalse);
 };
+
 
 #endif
