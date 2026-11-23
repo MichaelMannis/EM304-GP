@@ -26,7 +26,7 @@
 
 \-PCA::timeSerial(int {microseconds}, Boolean {truefalse})
 
-\-servo1.move(int {angle\_degrees}, int {delay})
+\-servo1.moveServo(int {angle\_degrees}, int {delay})
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-\-servo1.move(int {angle}, int {delay}), makes the motor move to a specific angle at a specific speed. Using readSerial() followed with servo1.move(PCA::angle, 0) in void loop will continuously move the motor to the stream of angles sent into the serial monitor.
+\-servo1.moveServo(int {angle}, int {delay}), makes the motor move to a specific angle at a specific speed. Using readSerial() followed with servo1.move(PCA::angle, 0) in void loop will continuously move the motor to the stream of angles sent into the serial monitor.
 
 
 
@@ -107,5 +107,6 @@ void loop() {
 &#x20; }                                                   so you don't get stuck in a loop of "PCA::timer" always being true.
 
 }
+
 
 
