@@ -40,7 +40,7 @@
 
 
 
-\-"PCA::readSerial()" is used in void loop. It reads an integer sent to the Arduinos serial chip and stores it in "PCA::angle". If data has been passed to "PCA::angle" on a particular loop iteration, "PCA::serialRecieved" is set to true for that iteration.
+\-"PCA::readSerial()" is used in void loop. It reads an integer sent to the Arduinos serial chip and stores it in "PCA::angle". If data has been passed to "PCA::angle" on a particular loop iteration, "PCA::serialRecieved" is set to true for that iteration. Data can be sent to the serial chip outside of arduino IDE. Python and java can write serial data to the chip using .write() serial functions.      python: ser.write(b"90\n") will send 90 to the serial chip which can then be picked up by this function, but only if it is written in this specific form. 
 
 
 
@@ -107,4 +107,5 @@ void loop() {
 &#x20; }                                                   so you don't get stuck in a loop of "PCA::timer" always being true.
 
 }
+
 
