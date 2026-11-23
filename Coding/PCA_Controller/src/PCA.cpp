@@ -24,7 +24,7 @@ void PCA::begin() {
 }
 
 //move servo
-void PCA::move(int angle, int lag) {
+void PCA::moveServo(int angle, int lag) {
   angle=constrain(angle, 0, 180);
   target_position=map(angle, 0, 180, 2600, 600);
   if (last_position>target_position) {
@@ -69,3 +69,4 @@ void PCA::timeSerial(int ms, bool trueFalse) {
     timer=true;
     }
 }
+
