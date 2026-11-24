@@ -1,0 +1,14 @@
+﻿"rail width"= 24
+"system width"= 125
+"system depth"= 250
+"internal height"= 100
+"carriage height"= 24
+"belt width"= 6
+"worm gear diameter"= 8
+"motor mounting hole spacing" = 35
+"motor hole radius"= 4.2
+"motor diameter"= 28
+"rotor shelf diameter"= 9
+"rotor centre from motor centre"= 8
+"pin radius"= 2.7
+"pin spacing"= 9
