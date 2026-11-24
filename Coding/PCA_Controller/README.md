@@ -52,7 +52,7 @@
 
 
 
-\-servo1.moveServo(int {angle}, int {delay}), makes the motor move to a specific angle at a specific speed. Using readSerial() followed with servo1.move(PCA::angle, 0) in void loop will continuously move the motor to the stream of angles sent into the serial monitor.
+\-servo1.moveServo(int {angle}, int {delay}), makes the motor move to a specific angle at a specified delay speed. Using readSerial() followed with servo1.move(PCA::angle, 0) in void loop will continuously move the motor to the stream of angles sent into the serial monitor.
 
 
 
